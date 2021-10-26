@@ -42,3 +42,5 @@ C:\Users\Dell\source\repos\ProjectsManagements\Alkanzi\obj\Debug\net5.0\Alkanzi.
 C:\Users\Dell\source\repos\ProjectsManagements\Alkanzi\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
 C:\Users\Dell\source\repos\ProjectsManagements\Alkanzi\bin\Debug\net5.0\Models.dll
 C:\Users\Dell\source\repos\ProjectsManagements\Alkanzi\bin\Debug\net5.0\Models.pdb
+C:\Users\Dell\source\repos\ProjectsManagements\Alkanzi\bin\Debug\net5.0\libman.json
+C:\Users\Dell\source\repos\ProjectsManagements\Alkanzi\obj\Debug\net5.0\Razor\Views\Home\Users.cshtml.g.cs

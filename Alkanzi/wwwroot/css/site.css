@@ -80,3 +80,13 @@ input[type=button]{
     border:0px;
     width:100%;
 }
+.active{
+    background:#086241;
+    color:white;
+    text-align:center;
+}
+.inactive {
+    background: #552f2f;
+    color: white;
+    text-align: center;
+}
