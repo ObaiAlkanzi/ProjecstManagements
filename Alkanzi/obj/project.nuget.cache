@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsD3kSoUSA+QHa5m0qIw1FSAJOBrEl+kfGc0LdCiFaqrHy2oSr7dsTXwZk+FmGZcJVbdAsVdKyaCEJzymMTlLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\ProjectsManagements\\Alkanzi\\Alkanzi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
